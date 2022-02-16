@@ -1,7 +1,7 @@
-# 微信公众号开发框架PHP版
+# 微信公众号后端框架php
 
 #### Description
-微信公众号开发框架PHP版
+{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
 
 #### Software Architecture
 Software architecture description
